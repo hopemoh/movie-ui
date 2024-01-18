@@ -17,6 +17,10 @@ const pageRoutes = [
     name: "Privacy Policy",
     href: "/policy",
   },
+  {
+    name: "Contact Us",
+    href: "/contact",
+  },
 ];
 
 const Navbar = () => {
