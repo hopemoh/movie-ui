@@ -2,7 +2,6 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { CiMenuBurger } from "react-icons/ci";
-import { LuSunDim } from "react-icons/lu";
 
 const pageRoutes = [
   //   {
@@ -13,14 +12,14 @@ const pageRoutes = [
     name: "About",
     href: "/about",
   },
-  // {
-  //   name: "Privacy Policy",
-  //   href: "/policy",
-  // },
-  // {
-  //   name: "Contact Us",
-  //   href: "/contact",
-  // },
+  {
+    name: "Privacy Policy",
+    href: "/policy",
+  },
+  {
+    name: "Contact Us",
+    href: "/contact",
+  },
 ];
 
 const Navbar = () => {
