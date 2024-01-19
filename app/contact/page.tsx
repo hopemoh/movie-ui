@@ -8,8 +8,9 @@ const ContactPage = () => {
       </h1>
       <p className="text-gray-600 leading-loose">
         if you have any questions, need more information, or would simply like
-        to connect with us, we'd love to hear from you! Our team is here to
-        assist you with anything you might need.don't hesitate to reach out.
+        to connect with us, we&apos;d love to hear from you! Our team is here to
+        assist you with anything you might need. Don&apos;t hesitate to reach
+        out.
         <br />
         <a href="mailto:contact@muchreview.com" style={{ color: "blue" }}>
           contact@muchreview.com

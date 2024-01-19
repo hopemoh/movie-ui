@@ -4,7 +4,7 @@ const PolicyPage = () => {
   return (
     <div className="md:w-3/4 mx-auto mt-32 p-5  ">
       <h1 className="text-3xl font-bold mb-5">
-        Welcome to MuchReview's Privacy Policy
+        Welcome to MuchReview&apos;s Privacy Policy
       </h1>
       <p className="text-gray-600 leading-loose">
         This document outlines how we handle your personal information when you
