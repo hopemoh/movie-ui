@@ -7,23 +7,23 @@ const AboutPage = () => {
         Welcome to MuchReview Where Your Voice Matters!
       </h1>
       <p className="text-gray-600 leading-loose">
-        MuchReview is not just a platform; it's a community of passionate
+        MuchReview is not just a platform; its a community of passionate
         individuals who love sharing their opinions on movies, music, and books.
-        Here, the spotlight is on you, the audience. We believe that everyone's
+        Here, the spotlight is on you, the audience. We believe that everyones
         perspective adds a unique flavor to the world of entertainment, and
-        that's why we've created a space where your reviews take center stage.
-        Our Mission: To amplify your voices and create a hub where diverse
-        opinions converge, shaping a vibrant tapestry of insights into the
-        worlds of movies, music, and books. What Sets Us Apart:
+        thats why weve created a space where your reviews take center stage. Our
+        Mission: To amplify your voices and create a hub where diverse opinions
+        converge, shaping a vibrant tapestry of insights into the worlds of
+        movies, music, and books. What Sets Us Apart:
         <br /> 1. User-Generated Reviews: Our platform thrives on the reviews,
         ratings, and thoughts shared by you the real critics and enthusiasts.
-        <br /> 2. Genre Inclusivity: Whether you're into indie films,
-        underground music, or classic literature, MuchReview is the place to
-        explore a wide array of genres.
+        <br /> 2. Genre Inclusivity: Whether youre into indie films, underground
+        music, or classic literature, MuchReview is the place to explore a wide
+        array of genres.
         <br /> 3. Community Connection: Connect with fellow reviewers, discuss
         your favorite works, and discover new gems recommended by our community.
         <br />
-        Get in Touch: Have a review you can't wait to share or want to join the
+        Get in Touch: Have a review you cant wait to share or want to join the
         conversation? Reach out to us at contact@muchreview.com.
       </p>
     </div>
