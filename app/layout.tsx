@@ -32,7 +32,7 @@ export default function RootLayout({
         />
       </head>
       <body className={inter.className}>
-        <Navbar />
+       <Navbar />
         <ToastContainer />
         <div className="mx-auto ">{children}</div>
       </body>
