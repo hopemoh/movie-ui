@@ -13,14 +13,14 @@ const pageRoutes = [
     name: "About",
     href: "/about",
   },
-  {
-    name: "Privacy Policy",
-    href: "/policy",
-  },
-  {
-    name: "Contact Us",
-    href: "/contact",
-  },
+  // {
+  //   name: "Privacy Policy",
+  //   href: "/policy",
+  // },
+  // {
+  //   name: "Contact Us",
+  //   href: "/contact",
+  // },
 ];
 
 const Navbar = () => {
