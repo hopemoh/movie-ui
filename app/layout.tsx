@@ -21,10 +21,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta
-          name="google-site-verification"
-          content="7tzFuUfurJatFCS_hHRomqJeXE40gBqyWGggwCvNcus"
-        />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4643996002315789"
@@ -35,6 +31,10 @@ export default function RootLayout({
           content="7tzFuUfurJatFCS_hHRomqJeXE40gBqyWGggwCvNcus"
         />
       </head>
+      <meta
+        name="google-site-verification"
+        content="7tzFuUfurJatFCS_hHRomqJeXE40gBqyWGggwCvNcus"
+      />
       <body className={inter.className}>
         <Navbar />
         <ToastContainer />
